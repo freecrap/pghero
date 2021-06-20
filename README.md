@@ -2,16 +2,6 @@
 
 A performance dashboard for Postgres
 
-[See it in action](https://pghero.dokkuapp.com/)
-
----
-
-**NEW** PgHero is also available as a [hosted service](https://pghero.org). Get real-time alerts, single sign-on, and more :tada:
-
----
-
-[![Screenshot](https://pghero.dokkuapp.com/assets/pghero-f8abe426e6bf54bb7dba87b425bb809740ebd386208bcd280a7e802b053a1023.png)](https://pghero.dokkuapp.com/)
-
 ## Installation
 
 PgHero is available as a Rails engine, Linux package, and Docker image.
