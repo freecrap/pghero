@@ -1,4 +1,4 @@
-# PgHero
+# PgHero - DEPRECATED, old version.
 
 A performance dashboard for Postgres
 
